@@ -1,6 +1,6 @@
 **Some documents**  
 [Enabling CodeFirst simple migration](Enabling_CodeFirst_simple_migration.md)  
-[Enabling DB First](Enabling_DB_First.md) old documents. DB First does not work  
+[Enabling DB First](Enabling_DB_First.md) 
 [mdb or accdb setup](mdb_or_accdb_setup.md)  
   
   
@@ -21,6 +21,6 @@ Now you can download the library using NuGet. Search for JetEntityFrameworkProvi
 **Some tutorials**  
 [Using Entity Framework with JetEntityFrameworkProvider](https://www.youtube.com/watch?v=mI0un8jjqL8)  
 [WebAPI implemented using Entity Framework with JetEntityFrameworkProvider and IdentityManager](https://youtu.be/VVc__TkiH7Y)  
-
+[Entity Framework DbFirst with JetEntityFrameworkProvider](https://youtu.be/XHrpY_nMXrk)
 
 
